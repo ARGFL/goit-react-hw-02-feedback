@@ -1,0 +1,18 @@
+.buttonContainer {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .button {
+    padding: 5px 5px;
+    background-color:darkwhite;
+    color:black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .button:hover {
+    background-color:rgb(0, 106, 255);
+  }
